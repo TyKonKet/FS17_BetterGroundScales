@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="37">
+    <author>TyKonKet (Team FSI Modding)</author>
+    <version>1.0.0</version>
+    <title>
+        <en>Better Ground Scales</en>
+    </title>
+    <description>
+        <en>Reduces the volumes on ground of grass, hay and straw to better fit to other fill types.</en>
+        <de>Verringert die Volumina auf dem Boden von Gras, Heu und Stroh, um besser auf andere Fülltypen zu passen.</de>
+        <fr>Réduit les volumes sur le sol de l'herbe, du foin et de la paille pour mieux s'adapter à d'autres types de remplissage.</fr>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename="script.lua" />
+    </extraSourceFiles>
+    <translatedBy>
+        <en>TyKonKet</en>
+        <de></de>
+        <fr></fr>
+    </translatedBy>
+</modDesc>
