@@ -5,7 +5,7 @@
 -- @date 17/03/2017
 BetterGroundScales = {};
 BetterGroundScales.name = "BetterGroundScales";
-BetterGroundScales.debug = true;
+BetterGroundScales.debug = false;
 BetterGroundScales.nc = 0;
 BetterGroundScales.pc = 0;
 
